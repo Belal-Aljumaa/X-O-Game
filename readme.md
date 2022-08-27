@@ -2,7 +2,7 @@
 
 Simple X - O game built using HTML, CSS, and JavaScript.
 
-
+**:point_right: [Live Version](https://belal-aljumaa.github.io/X-O-Game/)**
 
 ## Run on Terminal
 
